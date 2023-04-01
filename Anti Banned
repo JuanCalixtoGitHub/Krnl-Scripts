@@ -1,7 +1,7 @@
 -- This basically makes roblox unable to log your chat messages sent in-game. Meaning if you get reported for saying something bad, you won't get banned!
 -- Store in autoexec folder
 -- Credits: AnthonyIsntHere and ArianBlaack
-
+--
 --[[
     Change-logs:
     8/22/2022 - Fixed Chat gui glitching on some games such as Prison Life.
